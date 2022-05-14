@@ -1,0 +1,46 @@
+.mainDIV {
+  background-color: #541690;
+  margin: auto;
+  border-radius: 1rem;
+}
+
+#PNGkodluyoruz {
+  margin: auto;
+  width: 25rem;
+}
+
+.h2-mainDIV {
+  color: #faf5e4;
+  text-align: center;
+}
+
+.buttonDIVmain {
+  width: 9rem;
+  color: red;
+  font-family: monospace;
+  font-weight: 900;
+}
+
+.btn-outline-light:hover {
+  background-color: #ff8d29;
+  color: white;
+}
+
+.inputTEXT {
+  font-family: monospace;
+  font-size: 600;
+}
+
+.btn-close{
+  position: sticky;
+  left: 90%;
+}
+
+.btnList{
+  font-family: monospace;
+  font-size: 600;
+}
+
+.btnList:hover{
+  background-color: #e8e8e8;
+}
