@@ -1,4 +1,4 @@
 # Javascript-ile-To-Do-List
----
-www.patika.dev
+
+[PATIKA.DEV](www.patika.dev)
 
