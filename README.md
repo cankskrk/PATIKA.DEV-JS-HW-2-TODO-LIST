@@ -1,5 +1,5 @@
 
-# ![KODLUYORUZ.ORG]([kodluyoruz.org](https://www.kodluyoruz.org/))
+# ![KODLUYORUZ.ORG](https://www.kodluyoruz.org/)
 
 # ![PATIKA.DEV](https://www.patika.dev/tr)
 
